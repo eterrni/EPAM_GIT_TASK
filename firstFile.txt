@@ -4,7 +4,14 @@
 4 - task 7
 5 - task 8
 6 - task 8
+<<<<<<< Updated upstream
 7
 8
 9 - task 20
 10 - task 20
+=======
+7 - task 19
+8 - task 19
+9
+10
+>>>>>>> Stashed changes
